@@ -195,6 +195,7 @@ xcuserdata
 ### Yeoman template
 node_modules/
 bower_components/
+.next/
 *.log
 ### Node template
 # Logs
